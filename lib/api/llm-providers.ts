@@ -8,6 +8,7 @@ import { Portkey } from 'portkey-ai'
 import {
   createOrchestratorError,
   createStreamError,
+  createLLMError,
   ERROR_CODES
 } from '../../enhanced-code-system/core/error-types'
 
